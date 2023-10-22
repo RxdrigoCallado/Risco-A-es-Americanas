@@ -1,2 +1,2 @@
-# Risco-A-es-Americanas
-Calculo de Metricas para Risco
+# Risco-Açoes-Americanas
+#Calculo de Metricas para Análise de Risco
